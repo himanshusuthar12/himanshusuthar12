@@ -9,13 +9,6 @@
 I design and build **practical AI-powered solutions** — from retrieval-augmented generation and
 multi-agent workflows to intelligent automation, semantic search, and production-ready backend APIs.
 
-<br />
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=himanshusuthar12&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-suthar-data-scientist/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshusuthar12)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshusuthar788@gmail.com)
@@ -155,26 +148,7 @@ ai_developer:
 </details>
 
 <br />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshusuthar12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusuthar12&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusuthar12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
 <br />
-
-<!-- ============================================================
-     OPTIONAL: Snake contribution animation
-     1. Create .github/workflows/snake.yml in the profile repo
-     2. Use Platane/snk action, output to a branch, embed:
-     <img src="https://raw.githubusercontent.com/himanshusuthar12/
-     himanshusuthar12/output/github-snake.svg" alt="Snake" />
-     ============================================================ -->
 
 ## 📫 Connect With Me
 

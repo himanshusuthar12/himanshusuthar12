@@ -19,24 +19,14 @@ multi-agent workflows to intelligent automation, semantic search, and production
 
 ## 👨‍💻 About Me
 
-```yaml
-ai_developer:
-  experience: "3+ years"
-  focus:
-    - Generative AI & LLM Applications
-    - RAG & Knowledge Systems
-    - Agentic AI & Multi-Agent Systems
-  backend:
-    - FastAPI
-    - REST APIs & Microservices
-  open_to: "AI-driven products & engineering teams"
-```
+- 🤖 AI Developer with **3+ years of experience** in AI-driven software and backend application development
+- 🧠 Focused on **Generative AI, LLM applications, RAG, Agentic AI, and multi-agent systems**
+- 🔎 Experienced in building document-aware assistants, semantic search, and natural-language-to-SQL applications
+- ⚙️ Develop backend services and integrations using **Python, FastAPI, REST APIs, and microservices**
+- ☁️ Work with cloud platforms, vector databases, automation tools, and modern AI development workflows
+- 🚀 Interested in building reliable, scalable, and business-focused AI products
 
-- 🧠 **Specialized** in document-aware assistants, semantic search, and natural-language-to-SQL applications
-- ☁️ **Experienced** with cloud platforms, vector databases, and automation workflows
-- 🎯 **Goal-oriented** — building reliable, scalable, and business-focused AI products
-
-<br />
+---
 
 ## 🧠 Core Expertise
 

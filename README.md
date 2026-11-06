@@ -1,13 +1,17 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:3B82F6,100:8B5CF6&height=200&section=header&text=Himanshu%20Suthar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Developer%20%C2%B7%20Generative%20AI%20%C2%B7%20Agentic%20AI%20%C2%B7%20Python&descSize=18&descAlignY=55&animation=fadeIn" alt="Banner" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+Intelligent+Applications+with+LLMs+%26+RAG;Multi-Agent+Workflows+%7C+Semantic+Search;Production-Ready+Backends+%7C+FastAPI+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+Intelligent+Applications+with+LLMs+%26+RAG;Multi-Agent+Workflows+%26+Semantic+Search;Production-Ready+Backends+%7C+FastAPI+%7C+Cloud" alt="Typing SVG" />
 </h3>
 
 <div align="center">
 
-I design and build **practical AI-powered solutions** — from retrieval-augmented generation and
-multi-agent workflows to intelligent automation, semantic search, and production-ready backend APIs.
+I design and build **practical AI-powered solutions** - from retrieval-augmented generation
+and multi-agent workflows to intelligent automation and production-ready backend APIs.
+
+<br />
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-suthar-data-scientist/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshusuthar12)
@@ -20,48 +24,65 @@ multi-agent workflows to intelligent automation, semantic search, and production
 ## 👨‍💻 About Me
 
 - 🤖 AI Developer with **3+ years of experience** in AI-driven software and backend application development
-- 🧠 Focused on **Generative AI, LLM applications, RAG, Agentic AI, and multi-agent systems**
-- 🔎 Experienced in building document-aware assistants, semantic search, and natural-language-to-SQL applications
-- ⚙️ Develop backend services and integrations using **Python, FastAPI, REST APIs, and microservices**
-- ☁️ Work with cloud platforms, vector databases, automation tools, and modern AI development workflows
-- 🚀 Interested in building reliable, scalable, and business-focused AI products
+- 🧠 Specialized in **Generative AI, RAG, Agentic AI, and multi-agent systems**
+- 🏭 Hands-on experience shipping **production AI features in a healthcare product** - LLM conversational workflows, document intelligence, and MCP tooling
+- 🚀 Focused on building reliable, scalable, and **business-focused AI products**
 
 ---
 
-## 🧠 Core Expertise
+## 💼 Professional Experience
 
-| Domain | Technologies & Concepts |
-|--------|-------------------------|
-| 🤖 **Generative AI & LLMs** | Prompt Engineering · Fine-tuning · OpenAI · LLaMA · Gemini · Claude · Hugging Face |
-| 📚 **RAG & Knowledge Systems** | Document Ingestion · Chunking · Embeddings · Vector Search · Semantic Retrieval |
-| 🕸️ **Agentic AI** | Tool Calling · Multi-Agent Systems · Workflow Orchestration · Human-in-the-Loop |
-| 🔗 **AI Frameworks** | LangChain · LangGraph · LlamaIndex |
-| 🧮 **Machine Learning** | PyTorch · TensorFlow · Scikit-learn · OpenCV · Predictive Analytics · Clustering |
-| ⚙️ **Backend Engineering** | Python · FastAPI · Flask · REST · Microservices · Celery · SQL |
-| 🗄️ **Data & Cloud** | PostgreSQL · MySQL · Redis · AWS · Azure · Data Pipelines |
-| 🔄 **MLOps & DevOps** | Docker · Kubernetes · MLflow · LangSmith · CI/CD · GitHub Actions |
+### Healthcare AI Product - *Production LLM & AI Integrations*
 
-<br />
+Built LLM-powered conversational workflows and production AI integrations for a healthcare platform, including a **custom MCP (Model Context Protocol) tool implementation**.
 
-## 🚀 What I Build
+- 🧠 **Advanced AI Filters** - natural-language queries translated into intelligent, dynamic filters
+- 📄 **AI Contract Intelligence** - contract upload, automated data extraction, and AI PDF filling
+- 🔍 **Pattern Intelligence** - **HDBSCAN clustering** to surface related patterns and detect irregular data
+- 🕒 **Timesheet Management System** - employee work-hour tracking, timesheets, and approval workflows
+- 📊 **Work Tracking & Activity Logging** - monitoring user activities and working time across the platform
+- 🔌 **MCP Tool** - designed and integrated an MCP tool enabling standardized context/tool access within the product
+
+---
+
+## 🚀 Featured Projects
 
 <br />
 
 <div align="center">
 
-| | | |
+| | Project | Highlights |
 |:---|:---|:---|
-| 📚 | **RAG-Powered Applications** | Q&A systems over private documents & enterprise knowledge bases |
-| 🤖 | **Agentic AI Systems** | Tool-using agents & multi-step workflows with memory & human oversight |
-| 📄 | **Document Intelligence** | PDF parsing · information extraction · contract analysis |
-| 💬 | **Conversational AI** | Context-aware assistants with semantic retrieval & multi-turn chat |
-| 🗄️ | **Natural Language → SQL** | Plain-English questions translated into database queries |
-| 📈 | **AI/ML Solutions** | Predictive analytics · clustering · pattern recognition |
-| ⚡ | **Scalable Python APIs** | FastAPI services · async processing · cloud automation |
+| 🤖 | **End-to-End AI Agent System** | LangChain + LangGraph workflow - agent orchestration, tool integration, state management, multi-step task execution |
+| 💬 | **AI Email Intelligence** | ML classification of emails (Spam / Unwanted / Meeting / Project) with natural-language querying over email data |
+| 📅 | **AI Meeting Assistant** | Automated meeting-request handling - calendar scheduling, availability checks, alternative slot suggestions |
+| 🛒 | **AI E-commerce Platform** | AI product search, related & personalized recommendations, dynamic scroll-based suggestions, and a full AI chatbot |
+| 📦 | **RAG Courier/Delivery Chatbot** | RAG assistant answering customer queries, order status, and service information for courier operations |
+| 📥 | **Document & Data Ingestion Pipeline** | Ingestion of PDFs, invoices, and audio - processing, embedding generation, and vector DB storage |
+| ☁️ | **Azure Automation Pipelines** | Automated workflows using **Azure Logic Apps, Azure Functions, and Azure Data Factory** |
+| 🏥 | **Insurance Prediction Model** | ML model predicting insurance amounts from healthcare and medical data |
+| 📹 | **Package Damage Detection** | OpenCV-based CCTV system identifying potential damage during packing |
+| 🎓 | **Smart Attendance & Access Control** | Computer-vision face attendance, idle-time tracking, and automated door access control |
 
 </div>
 
-<br />
+---
+
+## 🧠 Core Expertise
+
+| Domain | Concepts |
+|--------|----------|
+| 🤖 **Generative AI & LLMs** | Prompt Engineering · Fine-tuning · Structured Outputs · Multi-LLM Integration |
+| 📚 **RAG & Knowledge Systems** | Document Ingestion · Chunking · Embeddings · Vector Search · Semantic Retrieval |
+| 🕸️ **Agentic AI** | Tool Calling · MCP · Multi-Agent Orchestration · State Management · Human-in-the-Loop |
+| 🧮 **Machine Learning** | Predictive Analytics · Clustering · Anomaly Detection · EDA |
+| ⚙️ **Backend Engineering** | REST APIs · Microservices · Async Processing · Workflow Automation |
+| 🗄️ **Data & Cloud** | Data Pipelines · Task Scheduling · Cloud Deployments |
+| 🔄 **MLOps & DevOps** | CI/CD · Experiment Tracking · Containerization · Monitoring |
+
+*All technologies and frameworks used across these domains are listed below.*
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +100,7 @@ multi-agent workflows to intelligent automation, semantic search, and production
 </details>
 
 <details open>
-<summary><b>🤖 AI, ML & Data</b></summary>
+<summary><b>🤖 AI, ML & Computer Vision</b></summary>
 <br />
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -102,6 +123,7 @@ multi-agent workflows to intelligent automation, semantic search, and production
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1B1C37?style=flat-square&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-1C3C3C?style=flat-square&logoColor=white)
@@ -110,35 +132,34 @@ multi-agent workflows to intelligent automation, semantic search, and production
 </details>
 
 <details open>
-<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<summary><b>☁️ Cloud, DevOps & Automation</b></summary>
 <br />
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/Logic_Apps-0078D4?style=flat-square&logo=azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>📊 Analytics & Automation</b></summary>
+<summary><b>📊 Analytics & Tools</b></summary>
 <br />
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=flat-square&logo=azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=azure&logoColor=white)
 
 </details>
 
-<br />
-<br />
+---
 
 ## 📫 Connect With Me
 
@@ -149,20 +170,10 @@ building meaningful AI-powered products.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-suthar-data-scientist/)
-[![Email](https://img.shields.io/badge/Gmail-himanshusuthar788-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshusuthar788@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-himanshusuthar12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshusuthar12)
+**🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-suthar-data-scientist/)** · **✉️ [himanshusuthar788@gmail.com](mailto:himanshusuthar788@gmail.com)** · **🐙 [GitHub](https://github.com/himanshusuthar12)**
 
 </div>
 
-<br />
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0EA5E9&height=140&section=footer&text=%20" alt="Footer" />
-
-<div align="center">
-
-**Passionate about building smarter systems and turning emerging technologies into real-world applications.**
-
-*Generative AI • Agentic Systems • RAG • LLM Engineering • Python*
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0EA5E9&height=130&section=footer&text=%20" alt="Footer" />
